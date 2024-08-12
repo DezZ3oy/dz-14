@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dz-14"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22,614">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testClickMeButton"
+                time="22,614"
+                classname="ClickButton">
+            </testcase>
+</testsuite>
